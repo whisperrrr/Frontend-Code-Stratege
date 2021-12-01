@@ -1,4 +1,4 @@
-## 前端编码&测试策略
+## [前端编码&测试策略](https://github.com/whisperrrr/Frontend-Code-Stratege/blob/main/src/%E5%89%8D%E7%AB%AF%E6%B5%8B%E8%AF%95%E7%AD%96%E7%95%A5.md) (大纲)
 
 ### 1.编码策略
     
